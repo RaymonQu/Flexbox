@@ -7,6 +7,10 @@ body{
   height: 60px;
   width: 100%;
   background-color: lightgrey;
+  display: flex;
+  justify-content: left;
+  align-items: flex-start;
+  flex-flow: row wrap;
 }
 
 .item {
